@@ -70,7 +70,6 @@ def shopside(shop):
         print("Payment=" + str(len(detail)))
 
 
-#insert_cus('Tanuj','Vix',1000)
 def admin(name,shop,no):
     if no==1:
         insert_cus(name,shop,pay=0)

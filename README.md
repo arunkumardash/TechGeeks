@@ -5,4 +5,13 @@
 4. You can click the Bills icon and add Pending Bills with the items and shop's name.
 5. The file project.py is used to store user inputs in a database.
 6. Look for the Output video in the OUTPUT folder for understanding the backend.
+
+
+
+Here are some screenshots of our Output:
+
 ![Output](OUTPUT/Login_page_output.JPG)
+![Output](OUTPUT/Cust_page_op1.JPG)
+![Output](OUTPUT/Cust_page_op2.JPG)
+![Output](OUTPUT/Cust_page_op3.JPG)
+![Output](OUTPUT/Cust_page_op4.JPG)

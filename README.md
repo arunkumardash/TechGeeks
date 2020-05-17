@@ -4,7 +4,7 @@
 3. Open Customer Page folder and index.html file in it.
 4. You can click the Bills icon and add Pending Bills with the items and shop's name.
 5. The file project.py is used to store user inputs in a database.
-6. Look for the Output video in the OUTPUT folder for understanding the backend.
+6. Look for the Output document in the OUTPUT folder for understanding the backend.
 
 
 

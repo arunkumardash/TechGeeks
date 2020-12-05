@@ -1,4 +1,4 @@
-# TechGeeks
+# Kanakku Pulla
 1. Open Login Page Folder and index.html file inside it.
 2. You can see the Login Page where the customers and Shopkeepers can register.
 3. Open Customer Page folder and index.html file in it.
